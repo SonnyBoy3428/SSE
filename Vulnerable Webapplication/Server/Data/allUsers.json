@@ -1,0 +1,14 @@
+{
+	"Users" : [
+		{ "Username":"admin", "Password":"password3" },
+		{ "Username":"Jack", "Password":"Kabel20" },
+		{ "Username":"Jill", "Password":"BuTTon" },
+		{ "Username":"Max", "Password":"TRICKtrack" },
+		{ "Username":"Laura", "Password":"Tastatur)=" },
+		{ "Username":"Arthur", "Password":"monItoR5" },
+		{ "Username":"Valerie", "Password":"MauSxXx" },
+		{ "Username":"Martin", "Password":"computer" },
+		{ "Username":"Marija", "Password":"Pinky" },
+		{ "Username":"Leonie", "Password":"aligator" }
+	]
+}
