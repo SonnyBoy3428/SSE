@@ -33,6 +33,11 @@ app.get('/redirect', (req, res) => {
 	res.redirect(req.query.url);
 });
 
+// A forward
+app.get('/forward', (req, res) => {
+	res.redirect(req.query.fwd);
+})
+
 //this route needs to stay at the bottom of all GETs, so it matches only when all others didn't already
 //ex.: localhost:8080/config/default.json
 app.get('/:path', (req, res) => {
