@@ -1,0 +1,10 @@
+{
+	"host": "0.0.0.0",
+    "mongoDB": {
+            "port": 27017,
+            "dbName": "users"
+    },
+    "appServer":{
+            "port":8080
+    }
+}

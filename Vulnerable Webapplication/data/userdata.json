@@ -1,0 +1,14 @@
+{
+  "Users" : [
+    { "Email":"admin@admin.com", "Password":"password3" },
+    { "Email":"Jack@admin.com", "Password":"Kabel20" },
+    { "Email":"Jill@admin.com", "Password":"BuTTon" },
+    { "Email":"Max@admin.com", "Password":"TRICKtrack" },
+    { "Email":"Laura@admin.com", "Password":"Tastatur)=" },
+    { "Email":"Arthur@admin.com", "Password":"monItoR5" },
+    { "Email":"Valerie@admin.com", "Password":"MauSxXx" },
+    { "Email":"Martin@admin.com", "Password":"computer" },
+    { "Email":"Marija@admin.com", "Password":"Pinky" },
+    { "Email":"Leonie@admin.com", "Password":"aligator" }
+  ]
+}
